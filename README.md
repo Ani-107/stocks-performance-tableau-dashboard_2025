@@ -1,21 +1,36 @@
-# Stocks-performance-tableau-dashboard_2025
-Stocks Performance Dashboard (Tableau)
+# 📈 Stocks Performance Dashboard (Tableau)
 
-An interactive Tableau dashboard analyzing stock portfolio performance through key investment metrics, individual stock trends, volatility, and contribution analysis.
+An interactive Tableau dashboard that analyzes stock portfolio performance using key investment metrics, individual stock trends, volatility, and contribution analysis to support data-driven investment decisions.
 
-The dashboard provides:-
+🔍 What This Dashboard Shows
 
-.Portfolio KPIs: total value, profit/loss, and return percentage
+📊 Portfolio KPIs
+Total portfolio value, net profit/loss, and return percentage
 
-.Stock-level trends using small multiple area charts
+📉 Stock-Level Trends
+Small multiple area charts to compare individual stock performance
 
-.Portfolio value growth over time
+📈 Portfolio Growth Over Time
+Time-series analysis of overall portfolio value
 
-.Volatility analysis to assess risk
+⚠️ Volatility Analysis
+Visual assessment of risk and return fluctuations
 
-.Contribution bubble chart highlighting top-performing stocks
+🟢 Contribution Analysis
+Bubble chart highlighting top-performing and high-impact stocks
 
-.Built with a clean, consistent visual design and calculated fields to support data-driven investment insights.
+🎨 Design & Analytics Approach
 
-Tools: Tableau Desktop
-Focus: Financial analytics, performance tracking, and visual storytelling
+Clean, consistent color palette across all visuals
+
+Calculated fields for performance and return metrics
+
+Clear labels, tooltips, and visual hierarchy for easy interpretation
+
+Focus on storytelling rather than isolated charts
+
+🛠 Tools & Focus
+
+Tool: Tableau Desktop
+
+Focus Areas: Financial Analytics, Performance Tracking, Visual Storytelling
